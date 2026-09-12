@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://labisost-pucv.github.io/sitemap.xml
